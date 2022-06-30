@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kaiken, The real name is Jeffrey
+- 👀 I’m interested in Coding and Japan Culture
+- 🌱 I’m currently learning Japanese
+- 💞️ I’m looking to collaborate on (Sorry I don't Collaborate)
+- 📫 How to reach me, Email me at jeffreyrabanes123@gmail.com
