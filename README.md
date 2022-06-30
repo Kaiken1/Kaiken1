@@ -1,5 +1,19 @@
-- 👋 Hi, I’m Kaiken, The real name is Jeffrey
-- 👀 I’m interested in Coding and Japan Culture
-- 🌱 I’m currently learning Japanese
-- 💞️ I’m looking to collaborate on (Sorry I don't Collaborate)
-- 📫 How to reach me, Email me at jeffreyrabanes123@gmail.com
+-- Who am I? --
+-- I am Jeffrey A.K.A Kaiken
+-- I am learning Japanese
+-- I'm 13 years old
+
+-- Hobbies --
+-- Reading
+-- Learning Japanese
+-- Coding
+-- Watching TV
+
+-- How to reach me --
+-- Email me at Jeffreyrabanes123@gmail.com
+
+-- Skills --
+- I'm Bilingual (about to be trilingual if I study on my japanese)
+- Good at math
+
+- Thank you!
